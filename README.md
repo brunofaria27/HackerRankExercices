@@ -3,7 +3,7 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 
 ## Exercicies - Algorithms
 
-|   Exercicice  |  Difficulty  |  Code  |    Points Earned    |
+|   Exercises  |  Difficulty  |  Code  |    Points Earned    |
 | :---         |     :---:      |     :---:      |          ---: |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)   | Easy    | [Java](https://github.com/brunofaria27/HackerRankExercices/tree/main/Algorithms/Easy/Simple%20Array%20Sum)     | 10.00    |
 | [Minimum Operations](https://www.hackerrank.com/challenges/minimum-operations/problem)   | Medium    | [Java](https://github.com/brunofaria27/HackerRankExercices/tree/main/Algorithms/Medium/Minimum%20Operations)     | 45.00    |
@@ -13,6 +13,6 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 ----------------------------------------------------
 ## Exercicies - Data Structure
 
-|   Exercicice  |  Difficulty  |  Code  |    Points Earned    |
+|   Exercises  |  Difficulty  |  Code  |    Points Earned    |
 | :---         |     :---:      |     :---:      |          ---: |
 
