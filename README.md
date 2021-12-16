@@ -16,4 +16,4 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 
 |   Exercises  |  Difficulty  |  Code  |    Points Earned    |
 | :---         |     :---:      |     :---:      |          ---: |
-| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)   | Easy    | [Java](https://github.com/brunofaria27/HackerRankExercices/tree/main/Algorithms/Hard/Bowling%20Pins)     | 15.00    |
+| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)   | Easy    | [Java](https://github.com/brunofaria27/HackerRankExercices/tree/main/Data%20Structures/Easy/2D%20Array%20-%20DS)     | 15.00    |
