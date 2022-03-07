@@ -3,7 +3,7 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 
 ## Exercicies - Algorithms
 
-|   Exercises  |  Difficulty  |  Code  |    Points Earned    |
+|   Exercises  |  Difficulty  |  Code  |    Points Earned (Site)   |
 | :---         |     :---:      |     :---:      |          ---: |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)   | Easy    | [Java](https://github.com/brunofaria27/HackerRankExercices/tree/main/Algorithms/Easy/Simple%20Array%20Sum)     | 10.00    |
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)   | Easy    | [Java](https://github.com/brunofaria27/HackerRankExercices/tree/main/Algorithms/Easy/Compare%20the%20Triplets)     | 10.00    |
