@@ -15,7 +15,7 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 
 
 ----------------------------------------------------
-## Exercicies - Data Structure
+## Exercicies - Data Structure 
 
 |   Exercises  |  Difficulty  |  Code  |    Points Earned    |
 | :---         |     :---:      |     :---:      |          ---: |
