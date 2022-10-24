@@ -23,4 +23,3 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)   | Easy    | [Python](https://github.com/brunofaria27/HackerRankExercices/tree/main/Algorithms/Easy/A%20Very%20Big%20Sum)     |10.00    |
 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)   | Medium    | [Python](https://github.com/brunofaria27/HackerRankExercices/blob/main/Data%20Structures/Medium/Sparse%20Arrays/solution.py)     |25.00    |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)   | Hard    | [Python](https://github.com/brunofaria27/HackerRankExercices/blob/main/Data%20Structures/Hard/Array%20Manipulation/solution.py)     |60.00    |
-
