@@ -1,7 +1,7 @@
-# Exercices - HackerRank
+# Exercises - HackerRank
 This repository will be where all the exercises developed on the [HackerRank](https://www.hackerrank.com/dashboard) website will be stored, so that various concepts and theories can be understood, in addition to helping other people during their studies.
 
-## Exercicies - Algorithms
+## Exercises - Algorithms
 
 |   Exercises  |  Difficulty  |  Code  |    Points Earned (Site)   |
 | :---         |     :---:      |     :---:      |          ---: |
@@ -15,7 +15,7 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 
 
 ----------------------------------------------------
-## Exercicies - Data Structure 
+## Exercises - Data Structure 
 
 |   Exercises  |  Difficulty  |  Code  |    Points Earned    |
 | :---         |     :---:      |     :---:      |          ---: |
@@ -23,3 +23,9 @@ This repository will be where all the exercises developed on the [HackerRank](ht
 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)   | Easy    | [Python](https://github.com/brunofaria27/HackerRankExercices/tree/main/Algorithms/Easy/A%20Very%20Big%20Sum)     |10.00    |
 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)   | Medium    | [Python](https://github.com/brunofaria27/HackerRankExercices/blob/main/Data%20Structures/Medium/Sparse%20Arrays/solution.py)     |25.00    |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)   | Hard    | [Python](https://github.com/brunofaria27/HackerRankExercices/blob/main/Data%20Structures/Hard/Array%20Manipulation/solution.py)     |60.00    |
+
+----------------------------------------------------
+## Exercises - SQL
+
+All the answers are in this folder: [SQL Exercises](https://github.com/brunofaria27/HackerRankExercices/blob/main/SQL%20Exercises) 
+> - The solutions are separated by exercise names.
